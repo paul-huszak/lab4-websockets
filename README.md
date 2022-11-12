@@ -14,6 +14,6 @@ Note: unless the goal specifies o disallows a specific framework you are free to
 Manifest your intention first by a PR updating this `README.md` with your goal.
 If you desist of your goal, release it by a PR so other fellow can try it.
 
-| User name | NIA | GitHub Action | Score |
-|-----------|-----|---------------|-------|
-|           |     |               |       |
+| User name                                                             | NIA    | GitHub Action                                                                                                                                                                                    | Score |
+|-----------------------------------------------------------------------|--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
+| [Daniel-dgp](https://github.com/Daniel-dgp/lab4-websockets/tree/work) | 756128 | ![Build Status](https://github.com/Daniel-dgp/lab4-websockets/actions/workflows/ci.yml/badge.svg?branch=work&event=push) |       |
