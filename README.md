@@ -17,3 +17,4 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 | User name | NIA | GitHub Action | Score |
 |-----------|-----|---------------|-------|
 |           |     |               |       |
+| [Davidzf21](https://github.com/Davidzf21/lab4-websockets/tree/work) | 780500 | ![Build Status](https://github.com/Davidzf21/lab4-websockets/actions/workflows/ci.yml/badge.svg?branch=work&event=push) |       |
