@@ -26,4 +26,4 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 | [rubenDTD](https://github.com/rubenDTD/lab4-websockets/tree/work) | 736650 | [![Build Status](https://github.com/rubenDTD/lab4-websockets/actions/workflows/ci.yml/badge.svg?branch=work&event=push)](https://github.com/rubenDTD/lab4-websockets/actions/workflows/ci.yml) |       |
 | [798523](https://github.com/798523/lab4-websockets/tree/work) | 795306 | ![Build Status](https://github.com/798523/lab4-websockets/actions/workflows/ci.yml/badge.svg?branch=work&event=push)|       |
 | [Daniel-dgp](https://github.com/Daniel-dgp/lab4-websockets/tree/work) | 756128 | ![Build Status](https://github.com/Daniel-dgp/lab4-websockets/actions/workflows/ci.yml/badge.svg?branch=work&event=push) |       |
-| [p3n4x0](https://github.com/p3n4x0/lab4-websockets/tree/work)   | 774572 | ![Build Status](https://github.com/p3n4x0/lab4-websockets/actions/workflows/ci.yml)   |
+| [p3n4x0](https://github.com/p3n4x0/lab4-websockets/tree/work)   | 774572 | ![Build Status](https://github.com/p3n4x0/lab4-websockets/actions/workflows/ci.yml/badge.svg?branch=work&event=push) |       |
