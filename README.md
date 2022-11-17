@@ -14,8 +14,8 @@ Note: unless the goal specifies o disallows a specific framework you are free to
 Manifest your intention first by a PR updating this `README.md` with your goal.
 If you desist of your goal, release it by a PR so other fellow can try it.
 
-| User name | NIA | GitHub Action | Score |
-|-----------|-----|---------------|-------|
+| User name    | NIA    | GitHub Action                                                                     | Score |
+|--------------|--------|-----------------------------------------------------------------------------------|-------|
 | [GueorguiKachan](https://github.com/GueorguiKachan/lab4-websockets/tree/work) | 794799 | [![Build Status](https://github.com/GueorguiKachan/lab4-websockets/actions/workflows/ci.yml/badge.svg?branch=work&event=push)](https://github.com/GueorguiKachan/lab4-websockets/actions/workflows/ci.yml)
 | [Ibon2](https://github.com/Ibon2/lab4-websockets/tree/work) | 776561 | [![Build Status](https://github.com/Ibon2/lab4-websockets/actions/workflows/ci.yml/badge.svg?branch=work&event=push)](https://github.com/Ibon2/lab4-websockets/actions/workflows/ci.yml) |
 | [jbuil](https://github.com/jbuil/lab4-websockets/tree/work) | 797285 | [![Build Status](https://github.com/jbuil/lab4-websockets/actions/workflows/ci.yml/badge.svg?branch=work&event=push)](https://github.com/jbuil/lab4-websockets/actions/workflows/ci.yml) |
@@ -33,4 +33,6 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 | [Berty980](https://github.com/Berty980/lab4-websockets/tree/work) | 735976 | [![Build Status](https://github.com/Berty980/lab4-websockets/actions/workflows/ci.yml/badge.svg?branch=work&event=push)](https://github.com/Berty980/lab4-websockets/actions/workflows/ci.yml) |       |
 | [797021](https://github.com/797021/lab4-websockets/tree/work) | 797021 | ![Build Status](https://github.com/797021/lab4-websockets/actions/workflows/ci.yml/badge.svg?branch=work&event=push) |       |
 | [p3n4x0](https://github.com/p3n4x0/lab4-websockets/tree/work)   | 774572 | ![Build Status](https://github.com/p3n4x0/lab4-websockets/actions/workflows/ci.yml/badge.svg?branch=work&event=push) |       |
+| [newfeels](https://github.com/newfeels/lab4-websockets/tree/work) | 779898 | ![Build Status](https://github.com/newfeels/lab4-websockets/actions/workflows/ci.yml/badge.svg?branch=work&event=push)|       |
+| [GonchiMonchi](https://github.com/GonchiMonchi/lab4-websockets/tree/work) | 759561 | [![Build Status](https://github.com/GonchiMonchi/lab4-websockets/actions/workflows/ci.yml/badge.svg?branch=work&event=push)](https://github.com/GonchiMonchi/lab4-websockets/actions/workflows/ci.yml)   |       |
 | [797610](https://github.com/motinsa/lab4-websockets/tree/work) | 797610 | [![Build Status](https://github.com/motinsa/lab4-websockets/actions/workflows/ci.yml/badge.svg?branch=work&event=push)](https://github.com/motinsa/lab4-websockets/actions/workflows/ci.yml)
